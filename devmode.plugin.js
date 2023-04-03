@@ -8,7 +8,7 @@
 @else@*/
 const config = {
     info: {
-        name: "krakens2",
+        name: "enables dev mode",
         authors: [
             {
                 name: "kraken",

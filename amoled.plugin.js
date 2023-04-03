@@ -8,7 +8,7 @@
 @else@*/
 const config = {
     info: {
-        name: "krakens",
+        name: "amoled theme",
         authors: [
             {
                 name: "kraken",
